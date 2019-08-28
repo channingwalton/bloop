@@ -210,7 +210,8 @@ lazy val launcher: Project = project
     libraryDependencies ++= List(
       Dependencies.coursier,
       Dependencies.coursierCache,
-      Dependencies.nuprocess
+      Dependencies.nuprocess,
+      Dependencies.snailgun
     )
   )
 
