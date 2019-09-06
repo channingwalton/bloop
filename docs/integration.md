@@ -17,7 +17,7 @@ There are two ways to implement a client integration with Bloop's build server:
 
 ### Note on installation requirements
 
-Every of the above mechanisms require you to have an environment with `bloop`
+All of the above mechanisms require you to have an environment with `bloop`
 installed and a server running in the background. It's likely that won't always
 hold for all your users. Can you still use `bloop`?
 
